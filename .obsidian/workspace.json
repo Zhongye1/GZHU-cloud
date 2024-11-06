@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "f29f82c3f377188e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c0fb335e3c4a752",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5fe593ebdf7939e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "关于虚拟机和LINUX系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "关于虚拟机和LINUX系统"
+            }
+          },
+          {
+            "id": "c124a324682d70fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "关于虚拟机和LINUX系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "关于虚拟机和LINUX系统"
+            }
+          },
+          {
+            "id": "5a107017dc77769b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux入门-关于命令行.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux入门-关于命令行"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7b4769ade004205",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ffcd81122409d06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "555b25a7e9f48ebf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e77a09da55945c7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7bc38eccceef9a45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "65eea5efc1bf204b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fb31a3a34b99dbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84b46c76405f48fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "测试用例.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "测试用例 的反向链接列表"
+            }
+          },
+          {
+            "id": "c8dbdb78d5d3d022",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "测试用例.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "测试用例 的出链列表"
+            }
+          },
+          {
+            "id": "17800dcd2e6aebce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "123c49a6ce746c87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "汇报-10-17/测试用例.md"
+              },
+              "icon": "lucide-list",
+              "title": "测试用例 的大纲"
+            }
+          },
+          {
+            "id": "39c8535b9d922de7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5a107017dc77769b",
+  "lastOpenFiles": [
+    "README.md",
+    "2024-11-05.md",
+    "2024-11-06.md",
+    "Linux入门-关于命令行.md",
+    "关于虚拟机和LINUX系统.md",
+    "2024-11-04.md",
+    "img/Pasted image 20241105001009.png",
+    "Excalidraw/Drawing 2024-11-05 00.44.28.excalidraw.md",
+    "Excalidraw",
+    "欢迎.md",
+    "img",
+    "新建文件夹",
+    "img/Pasted image 20241105002114.png",
+    "汇报-10-17/操作实例（待完善.md",
+    "VM虚拟机操作记录.md",
+    "汇报-10-17/测试用例.md",
+    "汇报-10-24/log1022.md",
+    "汇报-10-24/DiscoveryV5(1).md",
+    "汇报-10-31/DiscoveryV5(1).md",
+    "汇报-10-31/compose文件解析.md",
+    "汇报-10-24/关于论文docker自建私有链.md",
+    "Pasted image 20241102030432.png",
+    "测试用例.md",
+    "安装与配置环境：创建一个Wireshark网络包解码器来分析以太坊DEVP2P协议套件中的数据包.md",
+    "操作实例（待完善.md",
+    "Pasted image 20241102013817.png",
+    "Pasted image 20241102005540.png",
+    "汇报-10-24/Drawing 2024-10-23 22.54.44.excalidraw.md",
+    "汇报-10-24/Geth搭建私链.md",
+    "Excalidraw/Drawing 2024-10-30 23.57.27.excalidraw.md",
+    "汇报-10-17/Drawing 2024-10-16 23.34.56.excalidraw.md",
+    "待解决的问题.md",
+    "汇报-10-24/NET.md",
+    "汇报-10-24/discv5协议.md",
+    "汇报-10-31",
+    "discV5分析/img/whoareyou-packet-layout.png",
+    "discV5分析/img/topic-radius-diagram.png",
+    "discV5分析/img/topic-queue-diagram.png",
+    "discV5分析/img/message-packet-layout.png",
+    "discV5分析/img/ticket-validity.png",
+    "discV5分析/img",
+    "discV5分析",
+    "操作归档2024-10-25",
+    "初期准备与导读材料归档[10.25.2024]/区块链：通往数字化资产之路.pdf",
+    "初期准备与导读材料归档[10.25.2024]/Enabling security analysis and education of the Ethereum platform.pdf",
+    "初期准备与导读材料归档[10.25.2024]",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "9.20docker研究.canvas"
+  ]
+}
